@@ -1,2 +1,1 @@
 This is my first git file.
-Adding second line in my code.
