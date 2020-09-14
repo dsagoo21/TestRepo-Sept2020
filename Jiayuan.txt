@@ -1,9 +1,4 @@
 I ate donuts this morning.
 I ordered sandwich for lunch.
-<<<<<<< HEAD
-I maybe will have ramen for dinner.
-Or maybe pizza and cola.
-=======
 
 I deleted my other decisions and decided to eat salad because they are good for my health.
->>>>>>> DinnerBranch
